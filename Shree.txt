@@ -1,1 +1,3 @@
 In this File  Preference Sub-menu  Advanced Sub-left Menu, This adavnce setting applied for all device until user will change the setting for the device. users can enable service and configure setting such as Device default setting, Offline Detection, Firmware Update, as shown in below. If user did not set device own username and password, it will use default value. The username is ‘admin’, and password is ‘default’ as shown in below Figure 4.13
+
+uiiiiiiiiiiii
