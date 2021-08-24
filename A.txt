@@ -1,0 +1,4 @@
+To make the device’s information available for public viewing/editing, you can enable the SNMP function by toggling the Enable option and fill in the two passphrases (or SNMP Community Strings) below it. By filling in the passphrase for the “Read Community”, the connected device allows other network management software to read its information. By filling in the passphrase for the “Write Community”, the connected device allows other network management software to read/modify its information. The default device’s SNMP Community Strings (or passphrases) for Read Community and Write Community are “public” and “private”, respectively.
+
+In File  Preference Sub-menu  SNMP Sub-left Menu  Others section, users can precheck device SNMP feature before some specific operations in the Others section, as shown in Figure 4. below.
+
